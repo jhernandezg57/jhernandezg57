@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 Hello, my name is Julian; I am currently a PhD student. My background is in the area of automatic control and robotics. I am a Master in Electrical Engineering specializing in Automatic Control and a Mechatronic Engineer specializing in Robotics and Intelligent Systems. My first research is focused on the development of control prototypes as a teaching method at the undergraduate level, continuing with the study of nonlinear controllers based on Lyapunov theory. Currently, I design and analyze linear control systems based on time-delays. I have been a member of IEEE-CSS-RAS since 2021 and IEEE-PELS-SMC since 2023.
 
-Currently, I work as a coordinator at the Tecnológico Salesiano Carlos Gómez and as a lecturer in the School of Engineering at the Universidad Autónoma de San Luis Potosí. I teach subjects within the areas of Control Engineering, Robotics and Computer Aided Drawing.
+Currently, I work as a coordinator at the Tecnológico Salesiano Carlos Gómez and as a lecturer in the School of Engineering at the Universidad Autónoma de San Luis Potosí. I teach subjects within the areas of Control Engineering, Robotics and Computer Aided Design.
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
