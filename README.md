@@ -49,7 +49,7 @@ Currently, I work as an Academic Programs Manager at the Tecnológico Salesiano 
 	<img src="https://img.icons8.com/?size=50&id=ZRiAFreol5mE&format=png&color=000000"></a>
     <a style="margin-left: 10px;" target="_blank" href="https://twitter.com/jhernandezg_">
 	<img src="https://img.icons8.com/?size=50&id=ClbD5JTFM7FA&format=png&color=000000" ></a>
-    <a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UChldlkqgrEYJ744Xz8wBcWQ">
+    <a style="margin-left: 10px;" target="_blank" href="https://youtube.com/@jhernandezgg?si=Dv4RSVFuBCVyYjAO">
 	<img src="https://img.icons8.com/?size=50&id=19318&format=png&color=000000" ></a>
     <a style="margin-left: 10px;" target="_blank" href="https://orcid.org/0000-0001-7833-739X">
 	<img src="https://img.icons8.com/?size=50&id=ve6L0KkSotok&format=png&color=000000" ></a>
